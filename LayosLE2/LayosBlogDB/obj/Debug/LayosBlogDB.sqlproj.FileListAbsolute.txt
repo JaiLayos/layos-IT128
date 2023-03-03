@@ -1,0 +1,10 @@
+C:\Users\layos\Downloads\sysarc_lec\LayosLE2\LayosBlogDB\bin\Debug\LayosBlogDB.dacpac
+C:\Users\layos\Downloads\sysarc_lec\LayosLE2\LayosBlogDB\bin\Debug\LayosBlogDB.dll
+C:\Users\layos\Downloads\sysarc_lec\LayosLE2\LayosBlogDB\bin\Debug\LayosBlogDB.pdb
+C:\Users\layos\Downloads\sysarc_lec\LayosLE2\LayosBlogDB\obj\Debug\LayosBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\layos\Downloads\sysarc_lec\LayosLE2\LayosBlogDB\obj\Debug\Model.xml
+C:\Users\layos\Downloads\sysarc_lec\LayosLE2\LayosBlogDB\obj\Debug\refactor.xml
+C:\Users\layos\Downloads\sysarc_lec\LayosLE2\LayosBlogDB\obj\Debug\postdeploy.sql
+C:\Users\layos\Downloads\sysarc_lec\LayosLE2\LayosBlogDB\obj\Debug\predeploy.sql
+C:\Users\layos\Downloads\sysarc_lec\LayosLE2\LayosBlogDB\obj\Debug\LayosBlogDB.dll
+C:\Users\layos\Downloads\sysarc_lec\LayosLE2\LayosBlogDB\obj\Debug\LayosBlogDB.pdb
