@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eaz8K9xDIJ9vwiDCftN7yTNXYBDyPP/wSYZVfKo6grSJT7iEdQXn65wodgYseyvRd6p0mhqNYTrMIvWevM44Bg==",
+  "dgSpecHash": "Q0IvLCwsxxDNVdSiXMfzK8PcOdY/NZSeyqKb7jSIZI2FI6zP2JA/7GY+tKwWNQuDV5Gxyf1wNXQifzeW/ilxJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\layos\\Downloads\\sysarc_lec\\LayosLE2\\BlogTestUI\\BlogTestUI.csproj",
+  "projectFilePath": "C:\\Users\\layos\\Source\\Repos\\layos-IT128\\LayosLE2\\BlogTestUI\\BlogTestUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\layos\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\layos\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

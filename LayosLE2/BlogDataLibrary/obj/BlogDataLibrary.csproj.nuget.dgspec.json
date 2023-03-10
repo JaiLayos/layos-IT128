@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\layos\\Downloads\\sysarc_lec\\LayosLE2\\BlogDataLibrary\\BlogDataLibrary.csproj": {}
+    "C:\\Users\\layos\\Source\\Repos\\layos-IT128\\LayosLE2\\BlogDataLibrary\\BlogDataLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\layos\\Downloads\\sysarc_lec\\LayosLE2\\BlogDataLibrary\\BlogDataLibrary.csproj": {
+    "C:\\Users\\layos\\Source\\Repos\\layos-IT128\\LayosLE2\\BlogDataLibrary\\BlogDataLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\layos\\Downloads\\sysarc_lec\\LayosLE2\\BlogDataLibrary\\BlogDataLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\layos\\Source\\Repos\\layos-IT128\\LayosLE2\\BlogDataLibrary\\BlogDataLibrary.csproj",
         "projectName": "BlogDataLibrary",
-        "projectPath": "C:\\Users\\layos\\Downloads\\sysarc_lec\\LayosLE2\\BlogDataLibrary\\BlogDataLibrary.csproj",
+        "projectPath": "C:\\Users\\layos\\Source\\Repos\\layos-IT128\\LayosLE2\\BlogDataLibrary\\BlogDataLibrary.csproj",
         "packagesPath": "C:\\Users\\layos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\layos\\Downloads\\sysarc_lec\\LayosLE2\\BlogDataLibrary\\obj\\",
+        "outputPath": "C:\\Users\\layos\\Source\\Repos\\layos-IT128\\LayosLE2\\BlogDataLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\layos\\AppData\\Roaming\\NuGet\\NuGet.Config",

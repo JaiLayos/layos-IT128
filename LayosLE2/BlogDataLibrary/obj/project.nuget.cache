@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gk55/xP2LkmNEmtXH0PCuIsouS5tely+dxeYROKa/IZHQKAizEuZQ25GYBHXykTxUbLVPQ6YsXE+T9DwpCMrmA==",
+  "dgSpecHash": "0GM6+ZVPL8xqNxqkO2f35PEGOhncy0yLRg72u7IWB1by52C5JD5UPGJ9BV1e7iZsa002pCNOgdrM7FEnSnvQMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\layos\\Downloads\\sysarc_lec\\LayosLE2\\BlogDataLibrary\\BlogDataLibrary.csproj",
+  "projectFilePath": "C:\\Users\\layos\\Source\\Repos\\layos-IT128\\LayosLE2\\BlogDataLibrary\\BlogDataLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\layos\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\layos\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

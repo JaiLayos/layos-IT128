@@ -584,11 +584,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\layos\\Downloads\\sysarc_lec\\LayosLE2\\BlogTestUI\\BlogTestUI.csproj",
+      "projectUniqueName": "C:\\Users\\layos\\Source\\Repos\\layos-IT128\\LayosLE2\\BlogTestUI\\BlogTestUI.csproj",
       "projectName": "BlogTestUI",
-      "projectPath": "C:\\Users\\layos\\Downloads\\sysarc_lec\\LayosLE2\\BlogTestUI\\BlogTestUI.csproj",
+      "projectPath": "C:\\Users\\layos\\Source\\Repos\\layos-IT128\\LayosLE2\\BlogTestUI\\BlogTestUI.csproj",
       "packagesPath": "C:\\Users\\layos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\layos\\Downloads\\sysarc_lec\\LayosLE2\\BlogTestUI\\obj\\",
+      "outputPath": "C:\\Users\\layos\\Source\\Repos\\layos-IT128\\LayosLE2\\BlogTestUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\layos\\AppData\\Roaming\\NuGet\\NuGet.Config",
