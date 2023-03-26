@@ -1,0 +1,42 @@
+.package {
+  width: 100%;
+  height: 500px;
+  position: absolute;
+  top: 3949px;
+  left: 0;
+  background-color: #DFDEDA;
+}
+
+table, th, td{
+    padding:8px;
+    border: 1px solid black;
+}
+
+table{
+    position: absolute;
+    left:60%;
+    top:5%;
+}
+
+.authenticate{
+    border: 2px solid black;
+    width: 45%;
+    text-align: center;
+    position:relative;
+    top:75%;
+    left:5%;
+}
+
+form {
+  font-size: 16px;
+  font-family: 'Abril Fatface', cursive;
+  letter-spacing: 2px;
+  position: relative;
+  left: 5%;
+}
+
+.taylor {
+  position: absolute;
+  top: 45px;
+  left: 25%;
+}

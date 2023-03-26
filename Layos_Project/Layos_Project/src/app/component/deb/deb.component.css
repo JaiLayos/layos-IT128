@@ -1,0 +1,15 @@
+.deb {
+  width: 100%;
+  height: 250px;
+  position: absolute;
+  top: 1299px;
+  left: 0;
+  background-image: url(/assets/debutbg.png);
+  background-repeat: repeat-y;
+  background-size: cover;
+}
+
+.deb:hover {
+    filter: brightness(75%);
+}
+

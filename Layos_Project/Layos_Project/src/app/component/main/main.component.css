@@ -1,0 +1,51 @@
+.main {
+  width: 100%;
+  height: 900px;
+  position: absolute;
+  top: -1px;
+  left: 0;
+  background-image: url(/assets/main1.png);
+  background-repeat: repeat-y;
+  background-size: cover;
+  animation: myanimation 30s infinite;
+}
+
+.startbtn {
+  text-decoration:none;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 50px;
+  letter-spacing: 20px;
+  text-align: center;
+  padding: 15px;
+  padding-left: 25px;
+  border: 10px inset #82949B;
+  border-radius: 35px;
+  background-color: #A8C2CC;
+  color: white;
+  width: 249px;
+  position: absolute;
+  top: 445px;
+  left: 1090px;
+}
+
+  .startbtn:hover {
+    background-color: white;
+    color: #82949B;
+    letter-spacing: 10px;
+  }
+
+  @keyframes myanimation{
+    0% {
+      background-image: url(/assets/main1.png);
+    }
+    25% {
+      background-image: url(/assets/main2.png);
+    }
+
+    50% {
+      background-image: url(/assets/main3.png);
+    }
+    75% {
+      background-image: url(/assets/main4.png);
+    }
+  }

@@ -1,0 +1,100 @@
+<div class="package">
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Code</th>
+      <th>Brand</th>
+      <th>Unit Price</th>
+    </tr>
+    <tr>
+      <th>Taylor Swift Package</th>
+      <th>TS131989001</th>
+      <th>Taylor Swift</th>
+      <th>P1000</th>
+    </tr>
+    <tr>
+      <th>Fearless Package</th>
+      <th>FRLS131989002</th>
+      <th>Taylor Swift</th>
+      <th>P1200</th>
+    </tr>
+    <tr>
+      <th>Speak Now Package</th>
+      <th>SPKNW131989003</th>
+      <th>Taylor Swift</th>
+      <th>P1100</th>
+    </tr>
+    <tr>
+      <th>Red Package</th>
+      <th>RED131989004</th>
+      <th>Taylor Swift</th>
+      <th>P1300</th>
+    </tr>
+    <tr>
+      <th>1989 Package</th>
+      <th>1989131989005</th>
+      <th>Taylor Swift</th>
+      <th>P1200</th>
+    </tr>
+    <tr>
+      <th>Reputation Package</th>
+      <th>RPTTN131989006</th>
+      <th>Taylor Swift</th>
+      <th>P1500</th>
+    </tr>
+    <tr>
+      <th>Lover Package</th>
+      <th>LVR131989007</th>
+      <th>Taylor Swift</th>
+      <th>P1200</th>
+    </tr>
+    <tr>
+      <th>Folklore Package</th>
+      <th>FLKLR131989008</th>
+      <th>Taylor Swift</th>
+      <th>P1500</th>
+    </tr>
+    <tr>
+      <th>Evermore Package</th>
+      <th>EVRMR131989009</th>
+      <th>Taylor Swift</th>
+      <th>P1300</th>
+    </tr>
+    <tr>
+      <th>Midnights Package</th>
+      <th>MDNGHTS131989010</th>
+      <th>Taylor Swift</th>
+      <th>P2000</th>
+    </tr>
+  </table>
+
+  <div class="authenticate">
+    <p>
+      We require users to input these outputs as this ensures that all orders are human made. Any alteration from the
+      supposed output will not be entertained as our data are cleaned before we accommodate the orders. Thank you!
+    </p>
+  </div>
+
+  <div class="form">
+    <form #productsForm="ngForm" (ngSubmit)='onProductCreate(productsForm.value)'> 
+      <label>Name: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+      <input type="text" name="name" ngModel/>
+      <br />
+      <br />
+      <label>Code: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </label>
+      <input type="text" name="code" ngModel/>
+      <br />
+      <br />
+      <label>Brand: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+      <input type="text" name="Brand" ngModel/>
+      <br />
+      <br />
+      <label>Unit Price: </label>
+      <input type="text" name="unitPrice" ngModel/>
+      <br />
+      <br />
+      <input type="submit" onclick="window.location.href = 'index.html';" value="Order" />
+    </form>
+  </div>
+  <img src="assets/info.png" class="taylor">&nbsp;
+</div>

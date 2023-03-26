@@ -1,0 +1,14 @@
+.mid {
+  width: 100%;
+  height: 475px;
+  position: absolute;
+  top: 3474px;
+  left: 0;
+  background-image: url(/assets/midbg.png);
+  background-repeat: repeat-y;
+  background-size: cover;
+}
+
+.mid:hover {
+  filter: brightness(75%);
+}

@@ -1,0 +1,14 @@
+.speaknow {
+  width: 100%;
+  height: 250px;
+  position: absolute;
+  top: 1799px;
+  left: 0;
+  background-image: url(/assets/speaknowbg.png);
+  background-repeat: repeat-y;
+  background-size: cover;
+}
+
+.speaknow:hover {
+  filter: brightness(75%);
+}

@@ -1,0 +1,15 @@
+.folkmore {
+  width: 100%;
+  height: 475px;
+  position: absolute;
+  top: 2999px;
+  left: 0;
+  background-image: url(/assets/folkmorebg.png);
+  background-repeat: repeat-y;
+  background-size: cover;
+}
+
+.folkmore:hover {
+  filter: brightness(75%);
+}
+

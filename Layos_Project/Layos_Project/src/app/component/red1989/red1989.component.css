@@ -1,0 +1,14 @@
+.red1989 {
+  width:100%;
+  height: 475px;
+  position: absolute;
+  top: 2049px;
+  left: 0;
+  background-image: url(/assets/red1989bg.png);
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+
+.red1989:hover {
+  filter: brightness(75%);
+}

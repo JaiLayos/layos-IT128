@@ -1,0 +1,6 @@
+C:\Users\layos\Downloads\sysarc_lec\Layos_Project\ItemDB\bin\Debug\ItemDB.dacpac
+C:\Users\layos\Downloads\sysarc_lec\Layos_Project\ItemDB\bin\Debug\ItemDB.dll
+C:\Users\layos\Downloads\sysarc_lec\Layos_Project\ItemDB\bin\Debug\ItemDB.pdb
+C:\Users\layos\Downloads\sysarc_lec\Layos_Project\ItemDB\obj\Debug\ItemDB.sqlproj.AssemblyReference.cache
+C:\Users\layos\Downloads\sysarc_lec\Layos_Project\ItemDB\obj\Debug\ItemDB.dll
+C:\Users\layos\Downloads\sysarc_lec\Layos_Project\ItemDB\obj\Debug\ItemDB.pdb

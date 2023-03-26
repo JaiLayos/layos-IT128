@@ -1,0 +1,15 @@
+.fearless {
+  width: 100%;
+  height: 250px;
+  position: absolute;
+  top: 1549px;
+  left: 0;
+  background-image: url(/assets/fearlessbg.png);
+  background-repeat: repeat-y;
+  background-size: cover;
+}
+
+.fearless:hover {
+  filter: brightness(75%);
+}
+
