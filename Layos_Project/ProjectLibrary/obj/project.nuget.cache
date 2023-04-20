@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ljByZuZA6ZMi2NgDQbgL/Us7R3d44bWJKxHUNRZk7Yhm8Q30nLymO+VgLjQwsF+fLDcbVxsA8qnyuMLJhrVrUw==",
+  "dgSpecHash": "dDR/1mJ+t/tyXjQLmB1rk4ugt9pV4dP7RiMN01uwDOGIzXR7y2vyZyiRATvou/pzgH3r2NZ2URtJkyNsnxoNyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\layos\\Downloads\\sysarc_lec\\Layos_Project\\ProjectLibrary\\ProjectLibrary.csproj",
+  "projectFilePath": "C:\\Users\\layos\\Downloads\\sysarc_lec\\layos-IT128\\Layos_Project\\ProjectLibrary\\ProjectLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\layos\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\layos\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.15\\microsoft.aspnetcore.authentication.jwtbearer.6.0.15.nupkg.sha512",

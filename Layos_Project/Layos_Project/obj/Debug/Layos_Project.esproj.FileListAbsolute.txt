@@ -1,2 +1,4 @@
 C:\Users\layos\Downloads\sysarc_lec\Layos_Project\Layos_Project\obj\Debug\Layos_Project.esproj.SuggestedBindingRedirects.cache
 C:\Users\layos\Downloads\sysarc_lec\Layos_Project\Layos_Project\obj\Debug\Layos_Project.esproj.CoreCompileInputs.cache
+C:\Users\layos\Downloads\sysarc_lec\layos-IT128\Layos_Project\Layos_Project\obj\Debug\Layos_Project.esproj.SuggestedBindingRedirects.cache
+C:\Users\layos\Downloads\sysarc_lec\layos-IT128\Layos_Project\Layos_Project\obj\Debug\Layos_Project.esproj.CoreCompileInputs.cache

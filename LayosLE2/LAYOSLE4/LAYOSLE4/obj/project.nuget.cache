@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "FZz5iZgB4Eerbh8nu934YMbSfDjA8z6PnRMTlsSsSClhVT+wC7kumAD31NIEpCIJvQOY4g0CDD/p12wfD2NOaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\layos\\Downloads\\sysarc_lec\\LAYOSLE4\\LAYOSLE4\\LAYOSLE4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\layos\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\layos\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\layos\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\layos\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\layos\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\layos\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

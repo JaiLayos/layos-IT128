@@ -7,7 +7,7 @@
   "type": "chrome",
   "request": "launch",
   "url": "https://localhost:4200",
-  "webRoot": "C:\\Users\\layos\\Downloads\\sysarc_lec\\Layos_Project\\Layos_Project"
+  "webRoot": "C:\\Users\\layos\\Downloads\\sysarc_lec\\layos-IT128\\Layos_Project\\Layos_Project"
 }</LaunchJsonTarget>
   </PropertyGroup>
 </Project>

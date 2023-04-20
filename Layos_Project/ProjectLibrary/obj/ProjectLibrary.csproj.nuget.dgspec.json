@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\layos\\Downloads\\sysarc_lec\\Layos_Project\\ProjectLibrary\\ProjectLibrary.csproj": {}
+    "C:\\Users\\layos\\Downloads\\sysarc_lec\\layos-IT128\\Layos_Project\\ProjectLibrary\\ProjectLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\layos\\Downloads\\sysarc_lec\\Layos_Project\\ProjectLibrary\\ProjectLibrary.csproj": {
+    "C:\\Users\\layos\\Downloads\\sysarc_lec\\layos-IT128\\Layos_Project\\ProjectLibrary\\ProjectLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\layos\\Downloads\\sysarc_lec\\Layos_Project\\ProjectLibrary\\ProjectLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\layos\\Downloads\\sysarc_lec\\layos-IT128\\Layos_Project\\ProjectLibrary\\ProjectLibrary.csproj",
         "projectName": "ProjectLibrary",
-        "projectPath": "C:\\Users\\layos\\Downloads\\sysarc_lec\\Layos_Project\\ProjectLibrary\\ProjectLibrary.csproj",
+        "projectPath": "C:\\Users\\layos\\Downloads\\sysarc_lec\\layos-IT128\\Layos_Project\\ProjectLibrary\\ProjectLibrary.csproj",
         "packagesPath": "C:\\Users\\layos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\layos\\Downloads\\sysarc_lec\\Layos_Project\\ProjectLibrary\\obj\\",
+        "outputPath": "C:\\Users\\layos\\Downloads\\sysarc_lec\\layos-IT128\\Layos_Project\\ProjectLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\layos\\AppData\\Roaming\\NuGet\\NuGet.Config",
