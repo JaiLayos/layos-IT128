@@ -1,4 +1,5 @@
-﻿using ProjectLibrary.Database;
+﻿using Microsoft.Extensions.Configuration;
+using ProjectLibrary.Database;
 using ProjectLibrary.Models;
 using System;
 using System.Collections.Generic;
@@ -28,6 +29,15 @@ namespace ProjectLibrary.Data
                 item.DateOrdered
             }, connectionStringName, true);
         }
+
+        public void Register(Users user)
+        {
+            _db.SaveData("dbo.spUsers_register", new
+            {
+                user.Username,
+                user.Password
+            }, connectionStringName, true);
+        }
         public List<ItemList> ListItems()
         {
             return _db.LoadData<ItemList, dynamic>("dbo.spItem_list",
@@ -37,6 +47,17 @@ namespace ProjectLibrary.Data
         {
             return _db.LoadData<ItemList, dynamic>("dbo.spItem_get",
                 new { id }, connectionStringName, true).FirstOrDefault();
+        }
+        public void deleteItem(int id)
+        {
+            _db.SaveData("dbo.spItem_delete", new
+            { id }, connectionStringName, true);
+        }
+
+        public void updateItem(int id, Item item)
+        {
+            _db.SaveData("dbo.spItem_update", new
+            { id, item.Name, item.Code, item.Brand, item.UnitPrice }, connectionStringName, true);
         }
     }
 }

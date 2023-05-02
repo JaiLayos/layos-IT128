@@ -4,3 +4,13 @@ C:\Users\layos\Downloads\sysarc_lec\Layos_Project\ItemDB\bin\Debug\ItemDB.pdb
 C:\Users\layos\Downloads\sysarc_lec\Layos_Project\ItemDB\obj\Debug\ItemDB.sqlproj.AssemblyReference.cache
 C:\Users\layos\Downloads\sysarc_lec\Layos_Project\ItemDB\obj\Debug\ItemDB.dll
 C:\Users\layos\Downloads\sysarc_lec\Layos_Project\ItemDB\obj\Debug\ItemDB.pdb
+C:\Users\layos\Downloads\sysarc_lec\layos-IT128\Layos_Project\ItemDB\bin\Debug\ItemDB.dacpac
+C:\Users\layos\Downloads\sysarc_lec\layos-IT128\Layos_Project\ItemDB\bin\Debug\ItemDB.dll
+C:\Users\layos\Downloads\sysarc_lec\layos-IT128\Layos_Project\ItemDB\bin\Debug\ItemDB.pdb
+C:\Users\layos\Downloads\sysarc_lec\layos-IT128\Layos_Project\ItemDB\obj\Debug\ItemDB.sqlproj.AssemblyReference.cache
+C:\Users\layos\Downloads\sysarc_lec\layos-IT128\Layos_Project\ItemDB\obj\Debug\Model.xml
+C:\Users\layos\Downloads\sysarc_lec\layos-IT128\Layos_Project\ItemDB\obj\Debug\refactor.xml
+C:\Users\layos\Downloads\sysarc_lec\layos-IT128\Layos_Project\ItemDB\obj\Debug\postdeploy.sql
+C:\Users\layos\Downloads\sysarc_lec\layos-IT128\Layos_Project\ItemDB\obj\Debug\predeploy.sql
+C:\Users\layos\Downloads\sysarc_lec\layos-IT128\Layos_Project\ItemDB\obj\Debug\ItemDB.dll
+C:\Users\layos\Downloads\sysarc_lec\layos-IT128\Layos_Project\ItemDB\obj\Debug\ItemDB.pdb

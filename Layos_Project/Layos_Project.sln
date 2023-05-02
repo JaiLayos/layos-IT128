@@ -5,13 +5,15 @@ VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "Layos_Project", "Layos_Project\Layos_Project.esproj", "{7E5EA9BE-CC12-4D6A-BC3E-04C9EB07DA24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectLibrary", "ProjectLibrary\ProjectLibrary.csproj", "{678EB849-8BDE-43FB-99D4-B1656E0D4E38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectLibrary", "ProjectLibrary\ProjectLibrary.csproj", "{678EB849-8BDE-43FB-99D4-B1656E0D4E38}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ItemDB", "ItemDB\ItemDB.sqlproj", "{88382523-25D0-49E6-A2EF-53D441B9943B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrialProjectUI", "TrialProjectUI\TrialProjectUI.csproj", "{8FB7275E-2F87-4EE5-90B0-96A097438B75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrialProjectUI", "TrialProjectUI\TrialProjectUI.csproj", "{8FB7275E-2F87-4EE5-90B0-96A097438B75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectWebAPI", "ProjectWebAPI\ProjectWebAPI.csproj", "{83872DFC-9521-4022-98C8-83DB408B2C61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectWebAPI", "ProjectWebAPI\ProjectWebAPI.csproj", "{83872DFC-9521-4022-98C8-83DB408B2C61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wform", "wform\wform.csproj", "{04009C99-32B8-47D7-AB60-0E1E43B3C3A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,6 +45,10 @@ Global
 		{83872DFC-9521-4022-98C8-83DB408B2C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83872DFC-9521-4022-98C8-83DB408B2C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83872DFC-9521-4022-98C8-83DB408B2C61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04009C99-32B8-47D7-AB60-0E1E43B3C3A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04009C99-32B8-47D7-AB60-0E1E43B3C3A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04009C99-32B8-47D7-AB60-0E1E43B3C3A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04009C99-32B8-47D7-AB60-0E1E43B3C3A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

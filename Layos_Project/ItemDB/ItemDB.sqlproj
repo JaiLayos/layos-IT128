@@ -65,6 +65,10 @@
     <Build Include="Stored Procedures\spItem_add.sql" />
     <Build Include="Stored Procedures\spItem_list.sql" />
     <Build Include="Stored Procedures\spItem_get.sql" />
+    <Build Include="Stored Procedures\spItem_delete.sql" />
+    <Build Include="Stored Procedures\spItem_update.sql" />
+    <Build Include="dbo\Tables\users.sql" />
+    <Build Include="Stored Procedures\spUsers_register.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ItemDB.publish.xml" />
